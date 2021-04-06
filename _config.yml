@@ -16,6 +16,15 @@ url: "" # the base hostname & protocol for your site
 twitter_username: joshburnsxyz
 gitlab_username:  joshburnsxyz
 
+# Pages
+pages:
+  - title: "About"
+    url: "/about"
+  - title: "Projects"
+    url: "/projects"
+  - title: "Blog"
+    url: "/blog"  
+
 # Outputting
 permalink: /:categories/:year/:month/:day/:title
 
