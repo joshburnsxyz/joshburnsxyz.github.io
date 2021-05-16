@@ -6,7 +6,7 @@ date: "2021-02-17"
 ---
 
 Pug is the rebranded continuation of Jade, a HTML template pre-processor simmilar to Haml or Slim. Recently I have been working on 
-[a project](https://gitlab.com/joshburnsxyz/podseed-server) that uses Pug. Below is the view template for the RSS feed that displays
+[a project](https://github.com/joshburnsxyz/podseed-server) that uses Pug. Below is the view template for the RSS feed that displays
 podcast episodes that uses a data object passed in at render. The data itself isn't important here, what is important is how we use this
 to generate an actual RSS feed that can be sent to iTunes for podcasting. The most important part here is the `doctype xml` on line 1.
 
