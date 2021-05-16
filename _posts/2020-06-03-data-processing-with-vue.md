@@ -14,7 +14,7 @@ I did for 2 main reasons;
 2. To play with ideas about data processing.
 
 In this blog post I'll outline the tools and the processes I used. 
-You can visit the live site [here](https:/joshburns.xyz/covid-data).
+~You can visit the live site here~.
 
 ## The Data
 
