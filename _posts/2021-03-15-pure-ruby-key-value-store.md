@@ -62,5 +62,5 @@ end
 ```
 
 This is simply just an overview of how the system operates, it should be treated as pseudocode, simply illustrating the idea. 
-The full source for minikv is available [here](https://gitlab.com/joshburnsxyz/minikv).
+The full source for minikv is available [here](https://github.com/joshburnsxyz/minikv).
 
