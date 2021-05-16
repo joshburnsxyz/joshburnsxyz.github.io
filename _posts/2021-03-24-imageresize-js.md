@@ -10,7 +10,7 @@ hours opening them each in GIMP and spending hours repeating myself, I set off t
 image. To accomplish this I used the [sharp](example.com) Node.js library. Sharp provides a nice API to simply define input, action, and output.
 
 The iteration logic ws accomplished using Node.js `fs` module. The script in its entirety is below, I've also added some comments to illustrate my
-intent on certain design choices. The script is also available on gitlab [here](https://gitlab.com/joshburnsxyz/imageresize.js).
+intent on certain design choices. The script is also available on ~gitlab~ github [here](https://github.com/joshburnsxyz/imageresize.js).
 
 ```js
 
