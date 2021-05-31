@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Projects
+title: Josh Burns - Projects
 ---
 
 Heres a list of my projects.
@@ -20,3 +20,15 @@ in ruby as a joke. MiniKV has grown into its own thing, supplying its own useabl
 type interface, and more.
 
 - Source Code: [Available on Github](https://github.com/joshburnsxyz/minikv)
+
+## Reindent Buffer (Emacs Plugin)
+`reindent-buffer.el` is an emacs plugin that provides a simple command to reformat and reindent
+the current buffers contents without the need for any extra plugins apart from the relevant major mode.
+
+- Source Code: [Available on Github](https://github.com/joshburnsxyz/reindent-buffer.el)
+
+## cid-recv
+A mock IP reciever for Contact-ID/Ademco Panels. Used for testing message translation.
+
+- Source Code: [Available on Github](https://github.com/joshburnsxyz/cid-recv)
+- Demo Video: [Odysee](https://odysee.com/@joshburnsxyz:d/overview-of-cid-ademco-mock-ip-reciever:9)
