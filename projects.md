@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Josh Burns - Projects
+title: Projects
 ---
 
 Heres a list of my projects.
