@@ -15,7 +15,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 twitter_username: joshburnsxyz
 github_username:  joshburnsxyz
-odysee_link: @joshburnsxyz:d
+odysee_link: joshburnsxyz:d
 
 # Outputting
 permalink: /:categories/:year/:month/:day/:title
