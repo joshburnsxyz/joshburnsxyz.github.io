@@ -10,10 +10,13 @@ title: Home
       <h3>My Latest Blog Post</h3>
       {% for post in site.posts limit: 1 %}
         <h4>{{ post.title }}</h4>
-        <small>{{ post.content |truncatehtml | truncatewords: 60 }}</small>
+        <small>{{ post.content |truncatehtml | truncatewords: 30 }}</small>
       {% endfor %}
     </div>
-    <div class="column"></div>
+    <div class="column">
+      <h3>About Me</h3>
+      <p>I'll fill this in later.</p>
+    </div>
   </div>
 
 </div>
