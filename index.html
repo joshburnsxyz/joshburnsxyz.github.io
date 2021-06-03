@@ -11,6 +11,7 @@ title: Home
       {% for post in site.posts limit: 1 %}
         <h4>{{ post.title }}</h4>
         <small>{{ post.content |truncatehtml | truncatewords: 30 }}</small>
+      <a href="{{ post.url }}">Read More</a>
       {% endfor %}
     </div>
     <div class="column">
