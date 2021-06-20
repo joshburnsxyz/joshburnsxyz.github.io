@@ -3,7 +3,16 @@ layout: default
 title: Projects
 ---
 
-Heres a list of my projects.
+Heres a list of my noteable projects.
+
+## Jargon Wiki
+A free, open-source, lightweight wiki platform, built with minimalism and freedoms in-mind.
+Jargon has extremly minimal front-end styling, and a Zero javascript policy to decrease network load
+as much as possible and is licensed under the GPLv3 allowing users to modify and use Jargon to fit their
+own needs without restriction. My hope is turn this project into a thriving community project. 
+
+- Source Code: [Available on Github](https://github.com/jargonwiki/jargon)
+- Website: [jargonwiki.github.io](https://jargonwiki.github.io/)
 
 ## Linite
 Linite is a web service that allows you to select from a list of software and generate
