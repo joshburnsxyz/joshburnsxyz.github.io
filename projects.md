@@ -5,6 +5,14 @@ title: Projects
 
 Heres a list of my noteable projects.
 
+## Bantam
+A lightweight webserver, aimed at serving static websites, which is to say websites that
+don't have a server-side backend. Websites that are purely HTML/CSS don't need the complex
+features found in things like Nginx and Apache.
+
+- Source Code: [Available on Github](https://github.com/joshburnsxyz/bantam)
+- Website: [joshburns.xyz/bantam](http://joshburns.xyz)
+
 ## Jargon Wiki
 A free, open-source, lightweight wiki platform, built with minimalism and freedoms in-mind.
 Jargon has extremly minimal front-end styling, and a Zero javascript policy to decrease network load
