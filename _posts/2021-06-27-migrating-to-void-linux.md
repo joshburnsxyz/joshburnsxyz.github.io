@@ -2,7 +2,7 @@
 layout: post
 title: Migrating to Void Linux
 subtitle: A new GNU
-date: "2021-06-01"
+date: "2021-06-27"
 ---
 
 So recently I have made the switch over to Void Linux, a systemd-free distro
